@@ -1,4 +1,4 @@
-import Pokemon from "@/src/interface/InterfacePokemon";
+import Pokemon from "../interface/InterfacePokemon";
 
 class Requests {
     private api_url;
